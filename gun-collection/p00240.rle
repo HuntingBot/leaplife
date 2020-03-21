@@ -1,0 +1,12 @@
+#C adjustable gun for any period 48N -- see also p00216.rle
+x = 112, y = 74, rule = B2n3/S23-q
+64bo$64bo3$61b2o$60bo2bo$59b2ob2o$22bo37bob3o$22bo38b5o12b3o$62b3obo8b
+2ob3o$63b2ob2o6b2obobobo$24b2o37bo2bo8bobo5bo$23bo2bo37b2o10b3o3b3o$
+23b2ob2o49bo5bobo$22b3obo41bo10bobobob2o$6b3o12b5o36bo4bo12b3ob2o$6b3o
+b2o8bob3o37bo4b3o10b3o$5bobobob2o6b2ob2o$3bo5bobo8bo2bo$2b3o3b3o10b2o$
+bobo5bo52bo$2obobobo10bo42bo$b2ob3o12bo4bo36b3o$4b3o10b3o4bo3$56bo$24b
+o30bo$25bo29b3o$23b3o3$50bo$30bo18bo$31bo17b3o$29b3o3$44bo$36bo6bo32b
+2o$37bo5b3o30bobo$35b3o38bo3$92b3o$82b2o7bo3bo$82bobo6bo3bo$82bo8bo3bo
+$92b3o3$88b2o$88bobo$88bo4$87b2o5b2o11bo$86bobo5bobo10b2obo$89bo4bo10b
+o3b3o$109b2o$90bo12bo5bo$90b2o10b2o$90b3o8b3o3bo$86bo3b2o10bob2o$105bo
+$87b2o3bo$86b3o$87b2o$66bo21bo$67bo$65b3o21bo$90bobo$90b2o!
