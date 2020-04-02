@@ -14,7 +14,7 @@ defaultfolder = os.path.abspath(os.path.dirname(sys.argv[0]))
 
 # Change the next line to a hard-coded path if you don't want to have to
 #   choose the constellations.txt file every time you run the script
-constellation_fname = "C:/users/greedd/Desktop/const-output.txt"
+constellation_fname = "C:/users/{USERNAME}/Desktop/const-output.txt"
 
 output_fname = "C:/users/{USERNAME}/Desktop/output-collisions.rle"
   
